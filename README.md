@@ -31,7 +31,6 @@ All raw data was pulled manually from public and government sources, including:
 - Merged multiple datasets by **location** (e.g., borough or area) and **time** (e.g., month or year)
 - Cleaned and standardized column formats across inconsistent sources
 - Aligned **economic indicators** like interest rates and crime stats to monthly sale records
-- Filtered out price outliers (top and bottom 10%) to focus on typical home sales
 - Constructed a usable column for bedroom count using proximity-matching logic
 - Output a **clean, ready-for-EDA dataset** with rich contextual features
 
