@@ -91,7 +91,7 @@ All raw data was pulled manually from public and government sources, including:
 
 ---
 
-## 🔜 What's Next?
+## What's Next?
 
 The modeling and evaluation phases are actively being developed. In the meantime, feel free to explore the `data_preparation.ipynb` to see the full depth of real-world data wrangling already completed.
 
