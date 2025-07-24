@@ -87,16 +87,7 @@ All raw data was pulled manually from public and government sources, including:
 **_Status: In Progress_**
 
 - Feature importances
-- SHAP values
 - Model diagnostics
-
----
-
-## 8. Deployment
-**_Status: TBD_**
-
-- Package model using `joblib` or `pickle`
-- Create a prediction interface (e.g., Streamlit or Flask)
 
 ---
 
