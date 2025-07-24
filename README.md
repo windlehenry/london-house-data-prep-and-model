@@ -92,7 +92,7 @@ All raw data was pulled manually from public and government sources, including:
 
 ---
 
-## 8. Deployment (Optional)  
+## 8. Deployment
 **_Status: TBD_**
 
 - Package model using `joblib` or `pickle`
